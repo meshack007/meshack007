@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-#### [Get to Know Me](https://meshack007.github.io/)
-
 <!--
 **meshack007/meshack007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
